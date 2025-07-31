@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="https://feeds.buzzsprout.com/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://feeds.buzzsprout.com/2140859.rss" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Blended Fatherhood</title>
+
+  <lastBuildDate>Fri, 18 Jul 2025 23:12:36 -0500</lastBuildDate>
+  <link>http://podcast.blendedfatherhood.com</link>
+  <language>en-us</language>
+  <copyright>© 2025 Blended Fatherhood</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>80f0bcdd-003b-5c59-afb0-74e9377f7d6f</podcast:guid>
+  <itunes:author>James Ferris</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <description><![CDATA[<div>Being a father in a blended family comes with many unique circumstances and challenges. Most of which are rarely discussed or non-obvious. Every week our host, James, will explore many of these circumstances from the typical father perspective. If you want to learn more about being a father, hear some funny and relatable stories, or just need some guidance as you navigate blended fatherhood come take a listen.&nbsp;</div>]]></description>
+  <generator>Buzzsprout (https://www.buzzsprout.com)</generator>
+  <itunes:keywords>Father, Fatherhood, Blended, Blended family, Family, Children, stepparent, Parenting</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>James Ferris</itunes:name>
+  </itunes:owner>
+  <image>
+     <url>https://storage.buzzsprout.com/5yugt3om053lmsr34o11m5gz8p8v?.jpg</url>
+     <title>Blended Fatherhood</title>
+     <link>http://podcast.blendedfatherhood.com</link>
+  </image>
+  <itunes:image href="https://storage.buzzsprout.com/5yugt3om053lmsr34o11m5gz8p8v?.jpg" />
+  <itunes:category text="Kids &amp; Family">
+    <itunes:category text="Parenting" />
+  </itunes:category>
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Mental Health" />
+  </itunes:category>
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Relationships" />
+  </itunes:category>
+  <podcast:person role="host">James Ferris</podcast:person>
+  <item>
+    <itunes:title>Holiday Harmony in Blended Families</itunes:title>
+    <title>Holiday Harmony in Blended Families</title>
+    <itunes:summary><![CDATA[Send us a text Strap in for a journey as we unravel the complexities of celebrating the holidays in a blended family. I'm your host, James Ferris, with a passion for the festive period and an understanding of the challenges that come with it. We'll explore the importance of planning, communication, flexibility, and understanding, especially when it comes to stepchildren spending time with their other biological parent. You'll learn how to foster a sense of inclusion in all holiday celebration...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Strap in for a journey as we unravel the complexities of celebrating the holidays in a blended family. I&apos;m your host, James Ferris, with a passion for the festive period and an understanding of the challenges that come with it. We&apos;ll explore the importance of planning, communication, flexibility, and understanding, especially when it comes to stepchildren spending time with their other biological parent. You&apos;ll learn how to foster a sense of inclusion in all holiday celebrations, even if it means having multiple gatherings. Ultimately, we aim to cultivate a cohesive and welcoming family unit, regardless of biological ties.<br/><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Strap in for a journey as we unravel the complexities of celebrating the holidays in a blended family. I&apos;m your host, James Ferris, with a passion for the festive period and an understanding of the challenges that come with it. We&apos;ll explore the importance of planning, communication, flexibility, and understanding, especially when it comes to stepchildren spending time with their other biological parent. You&apos;ll learn how to foster a sense of inclusion in all holiday celebrations, even if it means having multiple gatherings. Ultimately, we aim to cultivate a cohesive and welcoming family unit, regardless of biological ties.<br/><br/><br/></p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/14110416-holiday-harmony-in-blended-families.mp3" length="14430507" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14110416</guid>
+    <pubDate>Fri, 08 Dec 2023 08:00:00 -0600</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14110416/transcript" type="text/html" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14110416/transcript.json" type="application/json" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14110416/transcript.srt" type="application/x-subrip" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14110416/transcript.vtt" type="text/vtt" />
+    <podcast:chapters url="https://www.buzzsprout.com/2140859/14110416/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Holiday Harmony in Blended Families" />
+  <psc:chapter start="0:23" title="Blended Family Considerations for the Holidays" />
+  <psc:chapter start="9:25" title="Navigating Holiday Traditions and Emotions" />
+</psc:chapters>
+    <itunes:duration>1198</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Building Trust with Stepchildren Through Apologies</itunes:title>
+    <title>Building Trust with Stepchildren Through Apologies</title>
+    <itunes:summary><![CDATA[Send us a text Ever found yourself tangled in the complexity of step parenting with a feeling of being lost? Struggling with frustrations that often result in misunderstandings with your loved ones? Let's embark on a journey of self-improvement and relationship building together. I'm your host, James Ferris, and this time we're addressing the elephant in the room - owning up to our missteps and the power of saying "I apologize" over simply "I'm sorry". We explore how this shift can bring abou...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Ever found yourself tangled in the complexity of step parenting with a feeling of being lost? Struggling with frustrations that often result in misunderstandings with your loved ones? Let&apos;s embark on a journey of self-improvement and relationship building together. I&apos;m your host, James Ferris, and this time we&apos;re addressing the elephant in the room - owning up to our missteps and the power of saying &quot;I apologize&quot; over simply &quot;I&apos;m sorry&quot;. We explore how this shift can bring about a wave of sincerity and commitment to change, ultimately strengthening our bond with our stepchildren. <br/><br/>Navigating the knotty terrain of blended families, we underscore the vital role of a father figure in mending fences and fostering harmony. I’ll share personal anecdotes of how I&apos;ve handled tough situations and the lessons I&apos;ve learned along the way to build trust. We&apos;ll also confront the challenges of putting pride aside and taking on the mantle of leadership in the household, even if it means admitting to being wrong. Join me as we untangle the complexities of step parenting, learn to lead with love, patience, and understanding, and turn our blended family journey into a fulfilling adventure. It&apos;s about fostering healthier relationships, and appreciating the difference between being frustrated and unfairly taking it out on the ones we cherish.</p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Ever found yourself tangled in the complexity of step parenting with a feeling of being lost? Struggling with frustrations that often result in misunderstandings with your loved ones? Let&apos;s embark on a journey of self-improvement and relationship building together. I&apos;m your host, James Ferris, and this time we&apos;re addressing the elephant in the room - owning up to our missteps and the power of saying &quot;I apologize&quot; over simply &quot;I&apos;m sorry&quot;. We explore how this shift can bring about a wave of sincerity and commitment to change, ultimately strengthening our bond with our stepchildren. <br/><br/>Navigating the knotty terrain of blended families, we underscore the vital role of a father figure in mending fences and fostering harmony. I’ll share personal anecdotes of how I&apos;ve handled tough situations and the lessons I&apos;ve learned along the way to build trust. We&apos;ll also confront the challenges of putting pride aside and taking on the mantle of leadership in the household, even if it means admitting to being wrong. Join me as we untangle the complexities of step parenting, learn to lead with love, patience, and understanding, and turn our blended family journey into a fulfilling adventure. It&apos;s about fostering healthier relationships, and appreciating the difference between being frustrated and unfairly taking it out on the ones we cherish.</p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/14053717-building-trust-with-stepchildren-through-apologies.mp3" length="11964479" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-14053717</guid>
+    <pubDate>Fri, 01 Dec 2023 08:00:00 -0600</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14053717/transcript" type="text/html" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14053717/transcript.json" type="application/json" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14053717/transcript.srt" type="application/x-subrip" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/14053717/transcript.vtt" type="text/vtt" />
+    <podcast:chapters url="https://www.buzzsprout.com/2140859/14053717/chapters.json" type="application/json" />
+    <psc:chapters>
+  <psc:chapter start="0:00" title="Building Trust with Stepchildren Through Apologies" />
+  <psc:chapter start="0:23" title="Quality and Forgiveness in Blended Fatherhood" />
+  <psc:chapter start="7:06" title="Father Repairing Relationships and Apologizing" />
+</psc:chapters>
+    <itunes:duration>992</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title> Absence of a Biological Father - Part 1</itunes:title>
+    <title> Absence of a Biological Father - Part 1</title>
+    <itunes:summary><![CDATA[Send us a text As a stepfather to two children with absent biological dads, I know firsthand the emotional complexities that come with blended families. Can you ever truly fill the void left by an absent parent? Join me in a raw, heartfelt discussion about the challenges and heartbreak we face as stepfathers, and gain some insight into helping your stepchild cope with loss and disappointment.  We dive into the importance of selfless love when parenting a stepchild and the struggle of putting ...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>As a stepfather to two children with absent biological dads, I know firsthand the emotional complexities that come with blended families. Can you ever truly fill the void left by an absent parent? Join me in a raw, heartfelt discussion about the challenges and heartbreak we face as stepfathers, and gain some insight into helping your stepchild cope with loss and disappointment.<br/><br/>We dive into the importance of selfless love when parenting a stepchild and the struggle of putting yourself in their shoes, especially if you&apos;ve never experienced an absent father yourself. Discover how to create a supportive and loving environment for your stepchildren as we explore how to navigate family dynamics and help them grow and thrive, despite the absence of their biological parent. Tune in for an honest, emotional conversation about the role of a stepfather and how to best support your stepchildren through life&apos;s challenges.</p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>As a stepfather to two children with absent biological dads, I know firsthand the emotional complexities that come with blended families. Can you ever truly fill the void left by an absent parent? Join me in a raw, heartfelt discussion about the challenges and heartbreak we face as stepfathers, and gain some insight into helping your stepchild cope with loss and disappointment.<br/><br/>We dive into the importance of selfless love when parenting a stepchild and the struggle of putting yourself in their shoes, especially if you&apos;ve never experienced an absent father yourself. Discover how to create a supportive and loving environment for your stepchildren as we explore how to navigate family dynamics and help them grow and thrive, despite the absence of their biological parent. Tune in for an honest, emotional conversation about the role of a stepfather and how to best support your stepchildren through life&apos;s challenges.</p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/13041014-absence-of-a-biological-father-part-1.mp3" length="18316994" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-13041014</guid>
+    <pubDate>Wed, 14 Jun 2023 14:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/13041014/transcript" type="text/html" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/13041014/transcript.json" type="application/json" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/13041014/transcript.srt" type="application/x-subrip" />
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/13041014/transcript.vtt" type="text/vtt" />
+    <itunes:duration>1522</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Stay In Your Lane</itunes:title>
+    <title>Stay In Your Lane</title>
+    <itunes:summary><![CDATA[Send us a text In this episode of Blended Fatherhood, host James Ferris talks about the ambiguous nature of the role of a stepparent. He explains that the title of father or mother can feel hollow or even lead to feelings of impostor syndrome. He acknowledges that the situation can be different if both spouses have stepchildren, as it can lead to a connection and shared understanding. However, he focuses on the unique challenges of being the only stepparent in a blended family, as it can lead...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferris talks about the ambiguous nature of the role of a stepparent. He explains that the title of father or mother can feel hollow or even lead to feelings of impostor syndrome. He acknowledges that the situation can be different if both spouses have stepchildren, as it can lead to a connection and shared understanding. However, he focuses on the unique challenges of being the only stepparent in a blended family, as it can lead to awkwardness and a lack of understanding from other family members. James encourages listeners to talk about their unique challenges and feelings to help combat the ambiguity of their roles as stepparents.<br/><br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferris talks about the ambiguous nature of the role of a stepparent. He explains that the title of father or mother can feel hollow or even lead to feelings of impostor syndrome. He acknowledges that the situation can be different if both spouses have stepchildren, as it can lead to a connection and shared understanding. However, he focuses on the unique challenges of being the only stepparent in a blended family, as it can lead to awkwardness and a lack of understanding from other family members. James encourages listeners to talk about their unique challenges and feelings to help combat the ambiguity of their roles as stepparents.<br/><br/><br/></p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12878145-stay-in-your-lane.mp3" length="12554070" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12878145</guid>
+    <pubDate>Wed, 24 May 2023 09:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/12878145/transcript" type="text/html" />
+    <itunes:duration>1042</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Quick Thoughts on Father Involvement</itunes:title>
+    <title>Quick Thoughts on Father Involvement</title>
+    <itunes:summary><![CDATA[Send us a text In this episode of Blended Fatherhood, host James Ferriss discusses the importance of father involvement in the lives of children. He acknowledges that this is an important topic and will be delved into more deeply in future episodes. He explains that children who feel close to their fathers are more likely to have successful outcomes such as entering college or having stable employment after high school. They are also 75% less likely to have a teen birth, 80% less likely to sp...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferriss discusses the importance of father involvement in the lives of children. He acknowledges that this is an important topic and will be delved into more deeply in future episodes. He explains that children who feel close to their fathers are more likely to have successful outcomes such as entering college or having stable employment after high school. They are also 75% less likely to have a teen birth, 80% less likely to spend time in jail, and about half as likely to experience depression symptoms. Father involvement can have drastic changes in the life of a child, and this is why it is so important for parents to stay engaged.<br/><br/>Questions or comments please email James@blendedfatherhood.com</p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferriss discusses the importance of father involvement in the lives of children. He acknowledges that this is an important topic and will be delved into more deeply in future episodes. He explains that children who feel close to their fathers are more likely to have successful outcomes such as entering college or having stable employment after high school. They are also 75% less likely to have a teen birth, 80% less likely to spend time in jail, and about half as likely to experience depression symptoms. Father involvement can have drastic changes in the life of a child, and this is why it is so important for parents to stay engaged.<br/><br/>Questions or comments please email James@blendedfatherhood.com</p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12819204-quick-thoughts-on-father-involvement.mp3" length="9312207" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12819204</guid>
+    <pubDate>Wed, 10 May 2023 09:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/12819204/transcript" type="text/html" />
+    <itunes:duration>771</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Discipline Can Get Messy</itunes:title>
+    <title>Discipline Can Get Messy</title>
+    <itunes:summary><![CDATA[Send us a text In this episode of Blended Father, host James Ferris talks about the complexities of discipline in a blended family. He explains why discipline can be difficult, due to the different relationships between step-parents, step-children, and biological children. He emphasizes the need to have conversations with future spouses about discipline and to be aware of the different relationships between the family members. He encourages a deep and connected bond between parents and childr...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Father, host James Ferris talks about the complexities of discipline in a blended family. He explains why discipline can be difficult, due to the different relationships between step-parents, step-children, and biological children. He emphasizes the need to have conversations with future spouses about discipline and to be aware of the different relationships between the family members. He encourages a deep and connected bond between parents and children, and the importance of understanding one another. Ultimately, he encourages families to plan ahead and to be prepared to navigate the complexities of blended families. <br/><br/>Any questions or comments. Please email James@blendedfatherhood.com</p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Father, host James Ferris talks about the complexities of discipline in a blended family. He explains why discipline can be difficult, due to the different relationships between step-parents, step-children, and biological children. He emphasizes the need to have conversations with future spouses about discipline and to be aware of the different relationships between the family members. He encourages a deep and connected bond between parents and children, and the importance of understanding one another. Ultimately, he encourages families to plan ahead and to be prepared to navigate the complexities of blended families. <br/><br/>Any questions or comments. Please email James@blendedfatherhood.com</p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12764438-discipline-can-get-messy.mp3" length="14198231" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12764438</guid>
+    <pubDate>Wed, 03 May 2023 09:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/12764438/transcript" type="text/html" />
+    <itunes:duration>1179</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>The Other Guy</itunes:title>
+    <title>The Other Guy</title>
+    <itunes:summary><![CDATA[Send us a text In this episode of Blended Fatherhood, host James Ferris discusses the challenges that blended fathers face regarding their relationship with the other father of their children. He begins by discussing the insecurity and jealousy that can arise from the presence of the other father, as well as the thankless job of being a step-parent in such a situation. To conclude, he talks about the importance of communicating with the other father, as well as between the two spouses, in ord...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferris discusses the challenges that blended fathers face regarding their relationship with the other father of their children. He begins by discussing the insecurity and jealousy that can arise from the presence of the other father, as well as the thankless job of being a step-parent in such a situation. To conclude, he talks about the importance of communicating with the other father, as well as between the two spouses, in order to make sure that everyone is on the same page and that the feelings of jealousy are addressed. He emphasizes that it is possible for blended families to have healthy relationships with the other parent, and that communication is key to achieving this.<br/> <br/>Please subscribe and if you have any questions or comments feel free to email me at James@blendedfatherhood.com</p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>In this episode of Blended Fatherhood, host James Ferris discusses the challenges that blended fathers face regarding their relationship with the other father of their children. He begins by discussing the insecurity and jealousy that can arise from the presence of the other father, as well as the thankless job of being a step-parent in such a situation. To conclude, he talks about the importance of communicating with the other father, as well as between the two spouses, in order to make sure that everyone is on the same page and that the feelings of jealousy are addressed. He emphasizes that it is possible for blended families to have healthy relationships with the other parent, and that communication is key to achieving this.<br/> <br/>Please subscribe and if you have any questions or comments feel free to email me at James@blendedfatherhood.com</p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12723817-the-other-guy.mp3" length="22533987" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12723817</guid>
+    <pubDate>Wed, 26 Apr 2023 08:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/12723817/transcript" type="text/html" />
+    <itunes:duration>1873</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>What Were We Thinking?</itunes:title>
+    <title>What Were We Thinking?</title>
+    <itunes:summary><![CDATA[Send us a text James Ferris, host of Blended Fatherhood, is talking about what it's like to get into a blended family. He shares his own story of meeting his wife at a singles group, where he knew ahead of time that she had kids, but he hadn't met them until they started officially dating. This episode is all about the things to consider when getting into a blended family.   0:00:23 Intro    0:03:50 The other guy    0:10:00 Discipline and boundaries    0:12:...]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>James Ferris, host of Blended Fatherhood, is talking about what it&apos;s like to get into a blended family. He shares his own story of meeting his wife at a singles group, where he knew ahead of time that she had kids, but he hadn&apos;t met them until they started officially dating. This episode is all about the things to consider when getting into a blended family.<br/> <br/>0:00:23 Intro<br/> <br/> 0:03:50 The other guy<br/> <br/> 0:10:00 Discipline and boundaries<br/> <br/> 0:12:38 Self-awareness and commitment<br/> <br/><br/></p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>James Ferris, host of Blended Fatherhood, is talking about what it&apos;s like to get into a blended family. He shares his own story of meeting his wife at a singles group, where he knew ahead of time that she had kids, but he hadn&apos;t met them until they started officially dating. This episode is all about the things to consider when getting into a blended family.<br/> <br/>0:00:23 Intro<br/> <br/> 0:03:50 The other guy<br/> <br/> 0:10:00 Discipline and boundaries<br/> <br/> 0:12:38 Self-awareness and commitment<br/> <br/><br/></p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12590995-what-were-we-thinking.mp3" length="10956013" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12590995</guid>
+    <pubDate>Wed, 19 Apr 2023 08:00:00 -0500</pubDate>
+    <podcast:transcript url="https://www.buzzsprout.com/2140859/12590995/transcript" type="text/html" />
+    <itunes:duration>908</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Blended Fatherhood</itunes:title>
+    <title>Blended Fatherhood</title>
+    <itunes:summary><![CDATA[Send us a text Being a father in a blended family comes with many unique circumstances and challenges. Most of which are rarely discussed or non-obvious. Every week our host, James, will explore many of these circumstances from the typical father perspective. If you want to learn more about being a father, hear some funny and relatable stories, or just need some guidance as you navigate blended fatherhood come take a listen.  ]]></itunes:summary>
+    <description><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Being a father in a blended family comes with many unique circumstances and challenges. Most of which are rarely discussed or non-obvious. Every week our host, James, will explore many of these circumstances from the typical father perspective. If you want to learn more about being a father, hear some funny and relatable stories, or just need some guidance as you navigate blended fatherhood come take a listen. </p>]]></description>
+    <content:encoded><![CDATA[<p><a target="_blank" href="https://www.buzzsprout.com/twilio/text_messages/2140859/open_sms">Send us a text</a></p><p>Being a father in a blended family comes with many unique circumstances and challenges. Most of which are rarely discussed or non-obvious. Every week our host, James, will explore many of these circumstances from the typical father perspective. If you want to learn more about being a father, hear some funny and relatable stories, or just need some guidance as you navigate blended fatherhood come take a listen. </p>]]></content:encoded>
+    <itunes:author>James Ferris</itunes:author>
+    <enclosure url="https://www.buzzsprout.com/2140859/episodes/12678965-blended-fatherhood.mp3" length="2154411" type="audio/mpeg" />
+    <guid isPermaLink="false">Buzzsprout-12678965</guid>
+    <pubDate>Tue, 18 Apr 2023 19:00:00 -0500</pubDate>
+    <itunes:duration>175</itunes:duration>
+    <itunes:keywords></itunes:keywords>
+    <itunes:season>1</itunes:season>
+    <itunes:episode>0</itunes:episode>
+    <itunes:episodeType>trailer</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
